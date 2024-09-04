@@ -1,5 +1,12 @@
-# 💫 About Me:
-🔭 Currently working on: Building cool full-stack projects, mostly focused on creating great user interfaces <br><br>🤝 Looking to collaborate on: E-commerce or SaaS projects, especially anything related to front-end development, UI/UX, or React-based apps.<br><br>🙋‍♂️ Need help with: Getting better at backend development and cloud stuff like AWS and Docker. If you have experience in that, I'd love to chat!<br><br>🌱 Learning: More about cloud computing, advanced TypeScript, and diving deeper into backend with Node.js.<br><br>💬 Ask me about: React, building user interfaces, or anything related to front-end development. Always happy to help or share tips!<br><br>🎉 Fun fact: I'm a bit of a tech nerd 
+### Hey! I'm [Your Name]
+
+- **Working on:** Full-stack projects, focusing on building great UIs.  
+- **Looking to collaborate on:** E-commerce/SaaS projects, especially front-end (React, UI/UX).  
+- **Need help with:** Backend development and cloud (AWS, Docker).  
+- **Learning:** Cloud computing, advanced TypeScript, and Node.js.  
+- **Ask me about:** React, UI/UX, and front-end development.  
+- **Fun fact:** I'm a tech nerd and coffee lover!
+
 
 
 ## 🌐 Socials:
