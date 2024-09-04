@@ -1,4 +1,4 @@
-### Hey! I'm [Your Name]
+### Hey! I'm Rana Junaid Majeed
 
 - **Working on:** Full-stack projects, focusing on building great UIs.  
 - **Looking to collaborate on:** E-commerce/SaaS projects, especially front-end (React, UI/UX).  
