@@ -4,8 +4,8 @@
 - **Looking to collaborate on:** E-commerce/SaaS projects, especially front-end (React, UI/UX).  
 - **Need help with:** Backend development and cloud (AWS, Docker).  
 - **Learning:** Cloud computing, advanced TypeScript, and Node.js.  
-- **Ask me about:** React, UI/UX, and front-end development.  
-- **Fun fact:** I'm a tech nerd and coffee lover!
+- **Ask me about:** React, UI/UX, and front-end development. Logical Stuff
+- **Fun fact:** I'm a tech nerd and Tea lover!
 
 
 
