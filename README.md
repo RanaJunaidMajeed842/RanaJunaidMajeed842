@@ -1,8 +1,5 @@
 ## Hi, I’m Junaid
 
-**Full-stack developer** focused on React and great UIs.  
-**Open to:** Front-end collaborations in E-commerce/SaaS.  
-**Specialties:** React · UI/UX · JavaScript · TypeScript · Problem-solving  
 **Fun fact:** I can’t start the day without tea.
 
 ---
