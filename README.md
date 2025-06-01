@@ -7,7 +7,7 @@
 ### Connect
 
 - LinkedIn: [https://linkedin.com/in/JunaidMajeed](https://www.linkedin.com/in/junaid-majeed-%F0%9F%87%B5%F0%9F%87%B8-202724247/)  
-- GitHub: https://github.com/RanaJunaidMajeed842  
+- WhatsApp: +92-3156490853  
 ---
 
 ### Tech Stack
