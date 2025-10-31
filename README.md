@@ -1,4 +1,33 @@
-<h1 align="center">Hi, I'm Junaid Majeed 👋</h1>
+# Hi, I'm Junaid Majeed 👋
+
+**Full-Stack Developer** | Crafting digital experiences for web and mobile, fueled by quality code and morning tea. ☕
+
+---
+
+## 🛠️ Technologies I Work With
+
+### Languages & Frameworks
+- ![JavaScript](https://img.icons8.com/color/16/000000/javascript.png) JavaScript · ![TypeScript](https://img.icons8.com/color/16/000000/typescript.png) TypeScript
+- ![React](https://img.icons8.com/color/16/000000/react-native.png) React · ![React Native](https://img.icons8.com/color/16/000000/react-native.png) React Native
+- ![Node.js](https://img.icons8.com/color/16/000000/nodejs.png) Node.js · ![Express](https://img.icons8.com/color/16/000000/express.png) Express
+
+### Web Fundamentals & Data
+- ![HTML5](https://img.icons8.com/color/16/000000/html-5.png) HTML5 · ![CSS3](https://img.icons8.com/color/16/000000/css3.png) CSS3
+- ![MongoDB](https://img.icons8.com/color/16/000000/mongodb.png) MongoDB
+
+### Development Tools
+- ![Git](https://img.icons8.com/color/16/000000/git.png) Git · ![Figma](https://img.icons8.com/color/16/000000/figma.png) Figma
+
+---
+
+## 📞 Get In Touch
+
+- ![LinkedIn](https://img.icons8.com/color/16/000000/linkedin.png) **LinkedIn**: [Junaid Majeed](https://www.linkedin.com/in/junaid-majeed-%F0%9F%87%B5%F0%9F%87%B8-202724247/)
+- ![WhatsApp](https://img.icons8.com/color/16/000000/whatsapp.png) **WhatsApp**: [+92-3156490853](https://wa.me/923156490853)
+
+---
+
+*Building intuitive solutions, one component at a time.* 🚀<h1 align="center">Hi, I'm Junaid Majeed 👋</h1>
 <h3 align="center">A passionate full-stack developer building things for the web and mobile.</h3>
 
 <div align="center">
