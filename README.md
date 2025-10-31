@@ -11,10 +11,6 @@
 - ![React](https://img.icons8.com/color/16/000000/react-native.png) React · ![React Native](https://img.icons8.com/color/16/000000/react-native.png) React Native
 - ![Node.js](https://img.icons8.com/color/16/000000/nodejs.png) Node.js · ![Express](https://img.icons8.com/color/16/000000/express.png) Express
 
-### Web Fundamentals & Data
-- ![HTML5](https://img.icons8.com/color/16/000000/html-5.png) HTML5 · ![CSS3](https://img.icons8.com/color/16/000000/css3.png) CSS3
-- ![MongoDB](https://img.icons8.com/color/16/000000/mongodb.png) MongoDB
-
 ### Development Tools
 - ![Git](https://img.icons8.com/color/16/000000/git.png) Git · ![Figma](https://img.icons8.com/color/16/000000/figma.png) Figma
 
